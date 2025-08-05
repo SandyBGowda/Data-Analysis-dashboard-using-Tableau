@@ -9,3 +9,5 @@ I have developed a comprehensive project(dashboard) in Tableau, creating a dashb
 ## Dashboard-image
 <img width="1919" height="1037" alt="Screenshot 2025-08-05 222915" src="https://github.com/user-attachments/assets/b939c552-657d-4556-b5e5-7b5fbeb50ba1" />
 
+# Tableau file
+- <a href="https://github.com/SandyBGowda/Data-Analysis-dashboard-using-Tableau/blob/main/TABLEAU%20ASSIGNMENT%20by%20P%20B%20Sandeep.twbx"> Tableau file </a>
